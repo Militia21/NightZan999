@@ -10,7 +10,8 @@ I like making websites and have some good websites, which are made in HTML, CSS,
 👍 Would appreciate you starring my projects or atleast check my projects out! I am gonna code more in 2021, like code PHP or Java. 
 
 🎫 And yes unlike others I like [jetbrains products](https://jetbrains.com) better than VS Code for its specific language.
-Like: ```js
+Like: 
+```js
 Pycharm > VS Code for Python // returns true
 PHPStorm > VS Code for PHP // returns true
 ```
