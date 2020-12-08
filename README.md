@@ -16,6 +16,4 @@ Pycharm > VS Code for Python // returns true
 PHPStorm > VS Code for PHP // returns true
 ```
 and so on...
-
-## Extra details
-Some more details about me will be avalible in my projects, so be sure to check them out. Have a great time! 🎊
+<img src="https://github-readme-stats.vercel.app/api?username=nightzan999&show_icons=true&locale=en">
