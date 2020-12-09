@@ -1,4 +1,4 @@
-### Hello there, GENERAL KENOBI
+### Hello there
 So this is me NightZan999, and I like to code. Well I don't, I just like the results which is why I do it. 
 I joined github in 2019 and yeah ever since then my life has changed. I star a ton of repositories and work quite well with github.
 
