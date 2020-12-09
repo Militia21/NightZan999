@@ -15,5 +15,5 @@ Like:
 Pycharm > VS Code for Python // returns true
 PHPStorm > VS Code for PHP // returns true
 ```
-and so on...
+But Visual Studio Code as a **full IDE is better than any one Jetbrain products. Which is why I use that as my main IDE :)**
 <img src="https://github-readme-stats.vercel.app/api?username=nightzan999&show_icons=true&locale=en">
