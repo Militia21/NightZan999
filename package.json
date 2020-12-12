@@ -1,0 +1,21 @@
+{
+    "name": "nightzan999",
+    "version": "1.0.0",
+    "description": "An awesome dev!",
+    "main": "index.js",
+    "dependencies": {
+      "ejs": "^3.1.5",
+      "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "node index.js",
+      "test": "node index.js"
+    },
+    "keywords": [
+      "nightzan999", "nightzan999dev", "discorddev", "theimperialgod"
+    ],
+    "author": "NightZan999",
+    "license": "ISC"
+  }
+  
