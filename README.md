@@ -17,10 +17,6 @@ PHPStorm > VS Code for PHP // returns true
 ```
 But Visual Studio Code as a **full IDE is better than any one Jetbrain products. Which is why I use that as my main IDE :)**
 #### Here are some cool stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbnritzdoge&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Doge's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbnritzdoge&count_private=true&layout=compact&theme=radical" />
+<a href="https://github.com/NightZan999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightzan999&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="NightZan999's github stats" />
 </a>
