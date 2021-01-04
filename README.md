@@ -1,13 +1,13 @@
 ### Hello there
 So this is me NightZan999, and I like to code. Well I don't, I just like the results which is why I do it. 
 I joined github in 2019 and yeah ever since then my life has changed. I star a ton of repositories and work quite well with github.
+I like automation and like good projects. 
 
-I code in HTML, CSS, JavaScript, Python, PHP and NodeJS. I sometimes code in Java and Ruby because Ruby is very similar to python and java to PHP. 
-I like making websites and have some good websites, which are made in HTML, CSS, SCSS and JS. I use NodeJS for backend and have made authentication with PHP.
+I am working on a discord bot, will soon be working on an eccomerce website with PHP. My favorite language is between python, javascript and php. 
+I am learning C#, Java and C++.
 
 🎉 I have discord, NightZan999#0194. 
 ✨ I made discord bots and use game engines like Unity (learning C#)
-👍 Would appreciate you starring my projects or atleast check my projects out! I am gonna code more in 2021, like code PHP or Java. 
 
 🎫 And yes unlike others I like [jetbrains products](https://jetbrains.com) better than VS Code for its specific language.
 Like: 
