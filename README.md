@@ -20,9 +20,3 @@ But Visual Studio Code as a **full IDE is better than any one Jetbrain products.
 <a href="https://github.com/NightZan999">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightzan999&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="NightZan999's github stats" />
 </a>
-
-Check out my latest discord bot:
-[Invite Link](https://discord.com/oauth2/authorize?client_id=768695035092271124&scope=bot&permissions=21474836398) <br>
-[Github Repository](https://github.com/TheImperialGod/TheImperialGod) <br>
-[Website](https://theimperialgod.herokuapp.com) <br>
-
