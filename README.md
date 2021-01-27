@@ -20,5 +20,5 @@ I am willing to work on any project where I could get paid by Discord Nitro (10 
 </details>
 <details>
     <summary> Most used Languages</summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightzan999&layout=compact&theme=material-palenight" />>
 </details>
