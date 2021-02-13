@@ -1,16 +1,22 @@
 ### Hello there
 I am willing to work on any project where I could get paid by Discord Nitro (10 USD). 
-<details>
-  <summary> About Discord and what I make</summary>
-🎉 I have discord, NightZan999#0194. <br>
-✨ I made discord bots and use game engines like Unity (learning C#)
-</details>
+Languages I know:
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Python
+* NodeJS
+* Java
+* SASS
 
-<details>
-  <summary>The IDE / Text-Editor I use? </summary>
-    🎫 And yes unlike others I like [jetbrains products](https://jetbrains.com) better than VS Code for its specific language. <br>
-    But Visual Studio Code as a **full IDE is better than any one Jetbrain products. Which is why I use that as my main text editor :)**
-</details>
+Frameworks I have used:
+* Bootstrap
+* W3 CSS
+* Django
+* ExpressJS
+* Flask
+* Svelte
 
 <details>
   <summary>👑 My EPIC Stats</summary> 
