@@ -1,22 +1,6 @@
 ### Hello there
 I am willing to work on any project where I could get paid by Discord Nitro (10 USD). 
-Languages I know:
-* HTML
-* CSS
-* JavaScript
-* PHP
-* Python
-* NodeJS
-* Java
-* SASS
 
-Frameworks I have used:
-* Bootstrap
-* W3 CSS
-* Django
-* ExpressJS
-* Flask
-* Svelte
 
 <details>
   <summary>👑 My EPIC Stats</summary> 
