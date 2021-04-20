@@ -1,6 +1,14 @@
 ### Hello there
 I am willing to work on any project where I could get paid by Discord Nitro (10 USD). 
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-23272A?style=flat&logo=php">
+  <img alt="JAVA" src = "https://img.shields.io/badge/-JAVA-23272A?style=flat&logo=java">
+</p>
 
 <details>
   <summary>👑 My EPIC Stats</summary> 
