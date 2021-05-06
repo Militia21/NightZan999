@@ -45,3 +45,4 @@ Link: https://guilded.gg/u/NightZan
 + Not in any server, just use it for dms
 - DMs closed
 ```
+3. Mail, mail me at `nightzan@nightzan.com`
