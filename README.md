@@ -1,5 +1,5 @@
 ### Hello there
-I am willing to work on any project where I could get paid by Discord Nitro (10 USD). 
+I am willing to work on any project where I could get paid 😀
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
@@ -24,3 +24,24 @@ I am willing to work on any project where I could get paid by Discord Nitro (10 
     <summary> Github Commits Streak 😅</summary>
     <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=NightZan999&theme=blue-green" />
 </details>
+
+## Contact? 
+1. Well I have Discord 🤗, I'm very active so feel free to reach me: <br>
+```yml
+Username: NightZan#0123
+ID: 575706831192719370
+```
+```diff
++ DMs open
++ I have nitro :D
+```
+2. I also have guilded 😂, I'm not too active but it looks cool 🤣:
+```yml
+Username: NightZan#0123
+Link: https://guilded.gg/u/NightZan
+```
+```diff
++ Friend req to talk
++ Not in any server, just use it for dms
+- DMs closed
+```
